@@ -19,7 +19,6 @@ public class TK3 {
     }
 
     static void menuUtama() {
-        System.out.println("=======================================================");
         String pilihan = "";
         System.out.println("====== Menu ======");
         System.out.println("1. Tambah Produk");
